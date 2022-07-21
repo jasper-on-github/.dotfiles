@@ -7,6 +7,9 @@ input * {
 	xkb_variant "dvorak"
 }
 
+# Set font to use Comic Code instead
+font comic-code Medium 11
+
 # disable title bars and set small outline border
 default_border pixel 3
 
